@@ -1,0 +1,86 @@
+.navbar > .container-fluid > .collapse > .navbar-nav > .nav-link {
+  color: white;
+}
+.navbar > .container-fluid > .collapse > .navbar-nav > .nav-item > .nav-link {
+  color: white;
+}
+.container-fluid > .row > .col-xl-2 > .card > .card-header {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.container-fluid > .row > .col-xl-2 > .card > .card-body > .card-text {
+  font-size: 12px;
+}
+
+.active {
+  background-color: rgb(250, 61, 133);
+}
+
+.row > .col > .card > .card-header {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.row > .col > .card > .card-body > .list-group > a {
+  font-size: 12px;
+  font-weight: bold;
+  color: blue;
+}
+
+.sampul {
+  width: 100px;
+  /* cari warna nanti dihapus aja */
+  /* color: #f0f0f0; */
+}
+.table-responsive > .table {
+  /* border: black; */
+  text-align: center;
+}
+
+.table > thead > tr > * {
+  vertical-align: middle;
+}
+.table > thead > tr > th {
+  background-color: rgb(114, 219, 175);
+  font-size: 12px;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+  font-size: 12px;
+}
+
+.navbar > form-inline > * {
+  width: 500px;
+}
+
+.sidebar > p {
+  font-size: 14px;
+}
+
+.content > table-responsive > table > p {
+  font-size: 14px;
+  max-width: 8px;
+}
+
+.card {
+  display: flex;
+}
+
+.card > form > .form-group {
+  margin: auto;
+}
+
+footer {
+  background-color: dimgrey;
+  color: aliceblue;
+}
+
+/*home*/
+/* .sidebar {
+  height: auto;
+  border: 1px solid black;
+} */
+.content {
+  height: auto;
+}
